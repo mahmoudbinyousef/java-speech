@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.29.3](https://www.github.com/googleapis/java-speech/compare/v1.29.2...v1.29.3) (2021-06-18)
+
+
+### Bug Fixes
+
+* Update dependencies.sh to not break on mac ([#561](https://www.github.com/googleapis/java-speech/issues/561)) ([329e455](https://www.github.com/googleapis/java-speech/commit/329e455d5e6f449a45a14bb5cf8f09cd7e045ef9))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-storage to v1.116.0 ([#563](https://www.github.com/googleapis/java-speech/issues/563)) ([03de3b2](https://www.github.com/googleapis/java-speech/commit/03de3b299af4750fb89400e68176e89114c13bfb))
+
 ### [1.29.2](https://www.github.com/googleapis/java-speech/compare/v1.29.1...v1.29.2) (2021-06-09)
 
 
